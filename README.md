@@ -5,6 +5,8 @@ Go to -> Terraform-create-instance folder. <br>
 Create a keygen using: <br>
 ssh-keygen <br>
 And replace the path of the pub key file in create-Instance.tf
+<br>
+Create a Security Group in AWS enabling required inbound and outbound rules and add into the create-Instance.tf file
 
 First execute: 
 <br>
